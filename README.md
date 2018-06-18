@@ -23,10 +23,11 @@ cd Lyrify
 npm i
 ```
 
-Install testrpc
+Install testrpc and truffle
 
 ```
 npm install -g ethereumjs-testrpc
+npm install -g truffle
 ```
 
 Run testrpc in a terminal window
@@ -35,20 +36,14 @@ Run testrpc in a terminal window
 testrpc
 ```
 
-Open a new terminal window and install truffle
-
-```
-npm install -g truffle
-```
-
 To compile and migrate the Solidity contracts, run the following commands in another terminal window:
 
-```bash
+```
 truffle compile
 truffle migrate --reset
 ```
 
-Run the dev script
+Run the dev script to start the project
 
 ```
 npm run dev
