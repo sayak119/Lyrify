@@ -1,6 +1,6 @@
 # Lyrify
 
-Lyrify is a decentralized application (DApp) that allows users to post text, such as song lyrics, to the Ethereum blockchain. This enables users to permanently store a record of their written work in the blockchain, which may be used to protect content creators against copyright infringement.
+Lyrify is a decentralized application (DApp) that allows users to save song lyrics, to the Ethereum blockchain. This enables users to permanently store a record of their written work in the blockchain, which may be used to protect content creators against copyright infringement.
 
 ## Getting Started
 
