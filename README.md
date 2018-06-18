@@ -48,12 +48,13 @@ Run the dev script to start the project
 ```
 npm run dev
 ```
+You will be pointed to **localhost:3000**.
 
 ## Setting up MetaMask
 
 1. On the MetaMask login page, click the "Restore from seed phrase" link.
 2. Copy and paste the 12-word mnemonic from the testrpc output into the Wallet Seed textbox.
-3. Change the network to "Localhost 8545".
+3. Change the network to **Localhost 8545**.
 4. As a check, note whether the Account 1 public key matches the first account in the testrpc output.
 5. When clicking the Submit button on the home page, a MetaMask popup will ask you to confirm the transactions. You may need to transfer ETH from Account 1 to the sending account (if different) for the transaction to go through. Congrats! This transactions will be mined into the Ethereum blockchain!
 
