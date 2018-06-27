@@ -1,10 +1,10 @@
 # Lyrify
 
-Lyrify is a decentralized application (DApp) that allows users to save song lyrics, to the Ethereum blockchain. This enables users to permanently store a record of their written work in the blockchain, which may be used to protect content creators against copyright infringement.
+Lyrify is a decentralized application (DApp) that allows users to save song lyrics, to the Ethereum blockchain. This enables users to permanently store a record of their written work in the blockchain, which can be used to protect content creators against copyright infringement and hence protecting their creativity.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development purposes.
+Follow these instruction:
 
 ### Installing
 
@@ -52,11 +52,10 @@ You will be pointed to **localhost:3000**.
 
 ## Setting up MetaMask
 
-1. On the MetaMask login page, click the "Restore from seed phrase" link.
+1. On the MetaMask login page, click the **Restore from seed phrase** link.
 2. Copy and paste the 12-word mnemonic from the testrpc output into the Wallet Seed textbox.
-3. Change the network to **Localhost 8545**.
-4. As a check, note whether the Account 1 public key matches the first account in the testrpc output.
-5. When clicking the Submit button on the home page, a MetaMask popup will ask you to confirm the transactions. You may need to transfer ETH from Account 1 to the sending account (if different) for the transaction to go through. Congrats! This transactions will be mined into the Ethereum blockchain!
+3. Change the network to **Localhost 8545** in the metamask web extension.
+4. When clicking the Submit button on the home page, a MetaMask popup will ask you to confirm the transactions. You may need to transfer ETH from the current account to the sending account (if different) for the transaction to go through. Congrats! This transactions will be mined into the Ethereum blockchain!
 
 ## Technologies Used
 
@@ -67,6 +66,6 @@ You will be pointed to **localhost:3000**.
 * [MetaMask](https://chrome.google.com/webstore/detail/metamask/) - Extension for accessing Ethereum enabled DApps in Google Chrome browser.
 
 
-## License
+## YouTube Video
 
-This project is licensed under the MIT License.
+[Demo Video](https://www.youtube.com/watch?v=05_ONNYbL4U)
